@@ -16,3 +16,4 @@ You can explore the full analysis and code in the Jupyter Notebook:
 
 - [View on GitHub](1%20LinearRegression_on_Carsdata.ipynb)
 - [Better rendering via nbviewer](https://nbviewer.org/github/Mohana1997/LinearRegression/blob/main/1%20LinearRegression_on_Carsdata.ipynb)
+- [View HTML Report](1%20LinearRegression_on_Carsdata.html)
