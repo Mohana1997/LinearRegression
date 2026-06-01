@@ -10,3 +10,9 @@ Model Building with and without Train-Test Split: I built models both using a tr
 Evaluation Metrics: After building the models, I evaluated their performance using metrics like R² and adjusted R² to choose the best model.
 
 Predictions and Insights: I used the final model to generate MPG predictions and provide insights into which features are most influential.
+
+## Project Notebook
+You can explore the full analysis and code in the Jupyter Notebook:
+
+- [View on GitHub](1%20LinearRegression_on_Carsdata.ipynb)
+- [Better rendering via nbviewer](https://nbviewer.org/github/Mohana1997/LinearRegression/blob/main/1%20LinearRegression_on_Carsdata.ipynb)
